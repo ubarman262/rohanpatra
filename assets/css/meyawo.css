@@ -5267,7 +5267,7 @@ input[type="button"].btn-block {
 
 @media (max-width: 478px) {
   .card-body {
-    height: 478px !important;
+    height: auto !important;
   }
 }
 
